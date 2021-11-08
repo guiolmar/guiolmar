@@ -2,10 +2,10 @@
 
 
 - 🏆 I'm the CTO & Co-founder at [Attion][website]
-- 🌱 
-- 👯 
-- 🍀 Effort, teamwork, courage and motivation
 - ⚡ Fun fact: I love rock & metal!
+- 🚀 2021 Goals: Improve on what I already know and learn software development (C ++ & C #)
+- 🍀 Effort, teamwork, courage and motivation
+- 🎧 Music: I love rock & metal!
 
 ### Connect with me:
 
