@@ -1,11 +1,11 @@
-## Hi there, I'm Guillermo Olcina
+## Hi there, I'm Guillermo Olcina Martínez
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love rock & metal
+- 🏆 I'm the CTO & Co-founder at [Attion][website]
+- 🌱 
+- 👯 
+- 🍀 Effort, teamwork, courage and motivation
+- ⚡ Fun fact: I love rock & metal!
 
 ### Connect with me:
 
