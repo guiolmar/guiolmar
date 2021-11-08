@@ -33,4 +33,3 @@
 [twitter]: https://twitter.com/guiolmar
 [instagram]: https://www.instagram.com/guille44_/
 [linkedin]: https://www.linkedin.com/in/guillermoolcina/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
