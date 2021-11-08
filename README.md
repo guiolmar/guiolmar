@@ -43,14 +43,6 @@
 
 ---
 
-
-//<details>
-//  <summary>:zap: GitHub Stats</summary>
-//
-//  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiolmar&show_icons=true&theme=radical)
-//
-//</details>
-
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
