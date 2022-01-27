@@ -3,7 +3,7 @@
 
 - 🏆 I'm the CTO & Co-founder at [Attion][website]
 - ⚡ Fun fact: I like to drink beer with my friends, play videogames, and learn new things 😊
-- 🚀 2021 Goals: Improve on what I already know and learn software development (C++ & C#)
+- 🚀 2022 Goals: Improve on what I already know and learn software development (C++ & C#)
 - 🍀 Effort, teamwork, courage and motivation
 - 🎧 Music: I love rock & metal!
 
