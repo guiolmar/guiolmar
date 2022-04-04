@@ -1,7 +1,7 @@
 ## Hi there, I'm Guillermo Olcina Martínez
 
 
-- 🏆 I'm the CTO & Co-founder at [Attion][website]
+- 🏆 I'm the CTO & Co-founder at [Coventia][website]
 - ⚡ Fun fact: I like to drink beer with my friends, play videogames, and learn new things 😊
 - 🚀 2022 Goals: Improve on what I already know and learn software development (C++ & C#)
 - 🍀 Effort, teamwork, courage and motivation
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[website]: https://attion.io
+[website]: https://coventia.es
 [twitter]: https://twitter.com/guiolmar
 [instagram]: https://www.instagram.com/guille44_/
 [linkedin]: https://www.linkedin.com/in/guillermoolcina/
