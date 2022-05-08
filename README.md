@@ -1,7 +1,7 @@
 ## Hi there, I'm Guillermo Olcina Martínez
 
 
-- 🏆 I'm the CTO & Co-founder at [Coventia][website]
+- 🏆 I'm actually CTO at [Coventia][website]
 - ⚡ Fun fact: I like to drink beer with my friends, play videogames, and learn new things 😊
 - 🚀 2022 Goals: Improve on what I already know and learn software development (C++ & C#)
 - 🍀 Effort, teamwork, courage and motivation
