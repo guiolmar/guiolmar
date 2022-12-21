@@ -3,7 +3,7 @@
 
 - 🏆 I'm actually CTO at [Coventia][website]
 - ⚡ Fun fact: I like to drink beer with my friends, play videogames, and learn new things 😊
-- 🚀 2022 Goals: Improve on what I already know and learn software development (C++ & C#)
+- 🚀 2023 Goals: Improve on what I already know and learn new technologies and ways of working
 - 🍀 Effort, teamwork, courage and motivation
 - 🎧 Music: I love rock & metal!
 
